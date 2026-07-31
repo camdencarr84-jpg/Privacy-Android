@@ -21,7 +21,7 @@
 No, you probably don't. 
 
 **BUT! Google is always listening to you.** Until I did what my scripts provide, I felt uneasy pointing a phone camera up at me, even when the Camera app wasn't running. I managed to regain my privacy, but it REALLY wasn't a user-friendly expeirence. *Yes,* even with Shizuku and Canta, it wasn't VERY user friendly. I aim to change that.
-With this toolbox you can regain control of your **privacy** and mitigate, **[September](https://keepandroidopen.org)**
+With this toolbox you can regain control of your **privacy** and mitigate, **[January](https://keepandroidopen.org)**
 
 ## How to use
 
